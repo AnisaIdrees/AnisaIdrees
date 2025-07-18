@@ -18,7 +18,8 @@
 
 ## 🌱 I'm currently learning
 - Advanced React patterns
-- GraphQL
+- Express.js
+- node.js
 - MongoDB
 
 ## 📊 GitHub Stats
