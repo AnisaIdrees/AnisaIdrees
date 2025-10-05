@@ -1,34 +1,46 @@
-# 👋 Hi, I'm Anisa Idrees 
-### Web Developer | Frontend Specialist | Full Stack Enthusiast
+# 👋 Hi, I'm Anisa Idrees  
+### 🚀 MERN Stack Developer | Frontend Specialist | Full Stack Enthusiast  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=HTML+%7C+CSS+%7C+JavaScript;React+%7C+TypeScript+%7C+Bootstrap;Node.js+%7C+Express.js+%7C+Firebase;Always+learning+new+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=f70ff7&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Frontend+%26+Backend+Specialist;Currently+Learning+Next.js+%26+MySQL;Always+open+to+new+opportunities!)](https://git.io/typing-svg)
 
-## 🛠️ My Skills
+---
+
+## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,ts,nodejs,express,mongodb,mysql,nextjs,git,vercel" />
 </p>
 
-## 🌱 I'm currently learning
-- Advanced React patterns
-- Express.js
-- node.js
-- MongoDB
+---
 
-## 📊 GitHub Stats
+## 🌱 Currently Exploring  
+✅ Next.js (SSR, API Routes, App Router)  
+✅ MySQL Database Integration  
+✅ GSAP Animations for UI/UX  
+✅ Advanced MERN Stack Architectures  
+
+---
+
+## 📊 GitHub Highlights  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnisaIdrees&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnisaIdrees&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnisaIdrees&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnisaIdrees&theme=radical" height="160"/>
 </p>
 
-## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-link)
+---
+
+## 🎯 Recruiter Tracking  
+- 🔎 Open for **Full Stack | Frontend | MERN Internships**  
+- 💻 Strong in **React, Tailwind, Node.js, Express.js, MongoDB**  
+- 🚀 Expanding into **Next.js & MySQL**  
+- 🌟 Goal 2025: **Secure Remote Full Stack Role + Build Startup Projects**  
+
+---
+
+## 📫 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-link)  
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnisaIdrees)  
+
+---
+
+✨ *"Turning ideas into scalable full stack applications."* ✨
